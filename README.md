@@ -40,7 +40,7 @@ Contact Entity: Records details of each marketing contact.
 Outcome Entity: Captures the results of marketing interactions.
 ER Diagram: Designed and implemented using SQL Server Management Studio to ensure a scalable and efficient database structure.
 
-****Big Data and ETL Processes:
+******Big Data and ETL Processes:**
 
 Data Warehousing: Structured a data warehouse with dimension tables (Date, Contact Method, Customer) and a central fact table to facilitate complex queries and reporting.
 ETL Development: Extracted, transformed, and loaded (ETL) data to derive insights such as age categories, probability scores for term deposits, and interaction durations.
